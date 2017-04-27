@@ -20,4 +20,6 @@ http://www.n-k.de/js4j
 
     yarn start
 
+Open `index.html` in your browser, webpack will automatically reload page as soon as some sources are edited.
+
 _(`yarn` and `npm` can be used alternatively, I prefer using `yarn`)_
